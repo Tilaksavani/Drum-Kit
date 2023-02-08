@@ -2,4 +2,4 @@
 
 
 Website Link :
-https://tilaksavani.github.io/Drum-Kit/Tilak_Drum_Kit.html
+https://tilaksavani.github.io/Drum-Kit/Drum_Kit.html
