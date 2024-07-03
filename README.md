@@ -1,4 +1,4 @@
-# Drum-Kit - Play Sounds with Clicks and Keys
+# Drum-Kit🥁 - Play Sounds with Clicks and Keys
 
 This project is a simple web-based drum kit that lets you play drum sounds by clicking on drum pads or pressing corresponding keys on your keyboard.
 
